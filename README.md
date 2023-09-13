@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
 
 <h2 style="color:#024f02;">SMARTPLACE ΑΝΩΝΥΜΗ ΕΤΑΙΡΕΙΑ ΑΚΙΝΗΤΩΝ</br>
